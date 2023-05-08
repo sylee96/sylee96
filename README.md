@@ -15,6 +15,7 @@
     - PyTorch
     - Python
     - WanDB
+    - Linux
 - can use
 	
     - TensorFlow

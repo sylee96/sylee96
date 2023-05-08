@@ -5,7 +5,7 @@
 #### 📖What I'm currently researching is...
 ---
 - Natural Language Processing
-- Language model
+- Large Language model
 - Natural Language Generation
 ---
 #### 🖥️Tech stack

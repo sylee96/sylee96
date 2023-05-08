@@ -1,6 +1,5 @@
 ### Hello, Welcome to my Github
 ### I'm Sungyoon Lee.
-### Let me introduce the field of development and research.
 ---
 #### 📖What I'm currently researching is...
 ---

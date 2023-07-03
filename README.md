@@ -25,13 +25,15 @@
     - MySQL
     - AWS EC2
     - Flask
+    - Docker
+    - FastAPI
 - have experience
 	
     - Kubernetes
     - GCP
     - Node.JS
     - Java
-    - Docker
+    
     
 
 ---

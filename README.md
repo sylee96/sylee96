@@ -3,9 +3,10 @@
 ---
 #### 📖What I'm currently researching is...
 ---
-- Natural Language Processing
 - Large Language model
 - Natural Language Generation
+- Alignment problem of LLM
+- Reducing ML model compute and memory costs
 ---
 #### 🖥️Tech stack
 ---

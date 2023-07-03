@@ -17,6 +17,8 @@
     - Python
     - WanDB
     - Linux
+    - Docker
+    - FastAPI
 - can use
 	
     - TensorFlow
@@ -25,8 +27,6 @@
     - MySQL
     - AWS EC2
     - Flask
-    - Docker
-    - FastAPI
 - have experience
 	
     - Kubernetes

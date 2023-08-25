@@ -19,7 +19,6 @@
     - Linux
     - Docker
     - FastAPI
-    - AWS EC2
 - can use
 	
     - TensorFlow
@@ -27,6 +26,7 @@
     - C++
     - MySQL
     - Flask
+    - AWS EC2
 - have experience
 	
     - Kubernetes

@@ -4,7 +4,6 @@
 #### 📖What I'm currently researching is...
 ---
 - Large Language model
-- Natural Language Generation
 - Alignment problem of LLM
 - Reducing ML model compute and memory costs
 ---

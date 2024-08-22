@@ -3,8 +3,9 @@
 ---
 #### 📖What I'm currently researching is...
 ---
-- Large Language model
-- Alignment problem of LLM
+- Large Language Model
+- Multimodal Large Language Model
+- Alignment problem of LLM or MLLM
 - Reducing ML model compute and memory costs
 ---
 🏛️Notion Link for the detail information

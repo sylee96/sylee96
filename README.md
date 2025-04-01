@@ -10,7 +10,7 @@
 ---
 🏛️Notion Link for the detail information
 ---
-- https://www.notion.so/58c7421027604eff866086d2a59a3d6b?pvs=4
+- https://www.notion.so/1c13fedd43878020a245da549871d509?pvs=10
 
 ---
 🏛️Velog Link for research

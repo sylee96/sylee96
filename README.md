@@ -10,7 +10,10 @@
 ---
 🏛️Notion Link for the detail information
 ---
-- https://www.notion.so/1c13fedd43878020a245da549871d509?pvs=10
+- Portfolio
+  - https://www.notion.so/1c13fedd43878020a245da549871d509?pvs=10
+- Tech
+  - https://www.notion.so/22e3fedd438780c49e2dd0aae8481bcc?v=22e3fedd4387808888c7000c3cc9ad15&source=copy_link
 
 ---
 🏛️Velog Link for research
